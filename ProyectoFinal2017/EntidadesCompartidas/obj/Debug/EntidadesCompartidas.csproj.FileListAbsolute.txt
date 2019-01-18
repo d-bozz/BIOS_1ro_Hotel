@@ -1,0 +1,56 @@
+C:\Users\sistemas\Desktop\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Proyecto Final web.net\2018-02-03\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Proyecto Final web.net\2018-02-03\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Proyecto Final web.net\2018-02-03\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Proyecto Final web.net\2018-02-03\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Proyecto Final web.net\2018-02-04\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Proyecto Final web.net\2018-02-04\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Proyecto Final web.net\2018-02-04\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Proyecto Final web.net\2018-02-04\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Proyecto Final web.net\2018-02-05\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Proyecto Final web.net\2018-02-05\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Proyecto Final web.net\2018-02-05\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Proyecto Final web.net\2018-02-05\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Desktop\2018-02-05\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Desktop\2018-02-05\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Desktop\2018-02-05\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Desktop\2018-02-05\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Desktop\2018-02-05\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\ProyectoFinal2017 new\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\ProyectoFinal2017 new\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\ProyectoFinal2017 new\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\ProyectoFinal2017 new\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\ProyectoFinal2017 new\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Desktop\2018-02-12 (todo junto)\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Desktop\2018-02-12 (todo junto)\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Desktop\2018-02-12 (todo junto)\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Desktop\2018-02-12 (todo junto)\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Desktop\2018-02-12 (todo junto)\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Proyecto Final web.net\2018-02-13\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Proyecto Final web.net\2018-02-13\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bardesio\Desktop\Proyecto Final web.net\2018-02-13\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bardesio\Desktop\Proyecto Final web.net\2018-02-13\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\2018-02-18\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\2018-02-18\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\2018-02-18\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\2018-02-18\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\2018-02-18\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\ProyectoFinal2017 (1)\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\ProyectoFinal2017 (1)\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\ProyectoFinal2017 (1)\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\ProyectoFinal2017 (1)\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\ProyectoFinal2017 (1)\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\2018-03-09-20180310T163517Z-001\2018-03-09\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\2018-03-09-20180310T163517Z-001\2018-03-09\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Downloads\2018-03-09-20180310T163517Z-001\2018-03-09\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Downloads\2018-03-09-20180310T163517Z-001\2018-03-09\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Downloads\2018-03-09-20180310T163517Z-001\2018-03-09\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Desktop\2018-03-13\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Desktop\2018-03-13\ProyectoFinal2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\javie_000\Desktop\2018-03-13\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\javie_000\Desktop\2018-03-13\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\javie_000\Desktop\2018-03-13\ProyectoFinal2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
